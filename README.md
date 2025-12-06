@@ -1,12 +1,12 @@
 # Cyberspot – Transformació d’una Cafeteria Tradicional en un Cibercafè
 
-## 🏁 Introducció
+## Introducció
 **Cyberspot** és un projecte que converteix una cafeteria tradicional de poble en un **cibercafè modern**, combinant l’ambient social d’un bar amb espais tecnològics per jugar, treballar, estudiar i connectar-se amb Internet d’alta velocitat.  
 L’objectiu és renovar completament un negoci antic i transformar-lo en un espai atractiu per públic jove, gamers, estudiants i teletreballadors.
 
 ---
 
-## 📌 Context i situació inicial
+## Context i situació inicial
 El punt de partida és una cafeteria clàssica amb infraestructura desfasada i poc atractiva per a la generació digital. Cyberspot vol donar-li una segona vida modernitzant l’espai:
 
 - Ambient més tecnològic i modern.  
@@ -17,12 +17,12 @@ Aquest projecte aprofita part de la infraestructura existent, afegeix equipament
 
 ---
 
-## 🎯 Objectiu principal
+## Objectiu principal
 Renovar totalment la cafeteria original i convertir-la en un **cibercafè completament funcional**, oferint serveis tecnològics, d’oci i productivitat en un entorn còmode i actual.
 
 ---
 
-## 🎯 Objectius específics
+## Objectius específics
 - Redissenyar l’espai per crear zones de gaming, estudi i consum.  
 - Instal·lar ordinadors per jugar, navegar, treballar i imprimir.  
 - Proporcionar connexió a Internet d’alta velocitat amb cobertura total.  
@@ -34,7 +34,7 @@ Renovar totalment la cafeteria original i convertir-la en un **cibercafè comple
 
 ---
 
-## 🛠️ Solució tècnica proposada
+## Solució tècnica proposada
 
 ### Disseny de l’espai
 - Zona gaming amb PCs potents i llum LED.  
@@ -92,7 +92,7 @@ Web oficial de Cyberspot amb:
 - Càmeres de vigilància al local.
 ---
 
-## 📅 Planificació i metodologia
+## Planificació i metodologia
 
 ### Anàlisi i planificació
 - Revisió del local i inventari de material aprofitable.  
@@ -123,7 +123,7 @@ Web oficial de Cyberspot amb:
 
 ---
 
-## 🧠 Conclusions i aprenentatges esperats
+## Conclusions i aprenentatges esperats
 Amb Cyberspot es preveu aprendre a:
 - Modernitzar un negoci tradicional amb tecnologia actual.  
 - Gestionar xarxes, servidors i sistemes de control d’usuaris.  
